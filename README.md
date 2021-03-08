@@ -28,3 +28,8 @@ Technologies Used
 2.Html
 
 3.Css
+
+Support and contact details
+For any questions,concerns or collaboration enquiries ,please feel free to contact me through my email adress:emperadam@gmail.com
+
+
