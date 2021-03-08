@@ -11,7 +11,13 @@ Description:
  The website is expected to function as follows:
 
 1.Give the user somewhere to choose the size of pizza they want.
-2.Allow the user to input the type of crust they want.Different crust may have different sizes.
-3.Allow the user to decide the toppings they want.
-4.If the user wants a delivery,prompt the user to enter location details and price for delivery.
+
+
+3.Allow the user to input the type of crust they want.Different crust may have different sizes.
+
+
+5.Allow the user to decide the toppings they want.
+
+
+7.If the user wants a delivery,prompt the user to enter location details and price for delivery.
 On checkout,show the user the total amount payable.
