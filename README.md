@@ -21,3 +21,10 @@ Description:
 
 4.If the user wants a delivery,prompt the user to enter location details and price for delivery.
 On checkout,show the user the total amount payable.
+
+Technologies Used
+1.Javascript
+
+2.Html
+
+3.Css
