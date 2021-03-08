@@ -32,7 +32,7 @@ Technologies Used
 Support and contact details
 For any questions,concerns or collaboration enquiries ,please feel free to contact me through my email adress:emperadam@gmail.com
 
-Licence
+Licence:
 MIT Licence. Copyright (c) 2021 Hassan Abdi
 
 
